@@ -35,7 +35,7 @@ python translatePOFile.py
 
 ## GPT Translation Script
 
-This script provides functionalities to translate English content into Latin American Spanish using OpenAI's GPT models. The primary target audience for these translations is educational institutions.
+This script provides functionalities to translate English content into Latin American Spanish using OpenAI's GPT models.
 
 ### Dependencies
 

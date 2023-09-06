@@ -1,4 +1,5 @@
-#PO file Translation with chatGPT
+# PO file Translation with chatGPT
+
 ## License
 
 This script is open-source and free to use. Please provide appropriate credit if you use or modify this script for your projects.
